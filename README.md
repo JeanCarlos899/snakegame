@@ -2,7 +2,7 @@
 
 # Snake Game - Jogo da Cobrinha
 
-Um jogo simples da cobrinha desenvolvido em Java utilizando o framework Swing para a disciplina de Sistemas Operacionais.
+Um jogo simples da cobrinha desenvolvido em Java utilizando o framework Swing para a disciplina de Sistemas Operacionais - IFPI.
 
 ## Começando
 
