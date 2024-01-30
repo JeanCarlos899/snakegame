@@ -1,0 +1,22 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\jeanc\Desktop\snakegame\target\snakegame.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\jeanc\Desktop\snakegame\target\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\jeanc\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\
+Substitute:	PATH = C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\src\flutter\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\MinGW\bin;C:\Users\jeanc\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\bin;C:\Users\jeanc\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\jeanc\AppData\Local\Programs\Python\Python311\;C:\Users\jeanc\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jeanc\AppData\Roaming\npm;C:\Users\jeanc\AppData\Local\GitHubDesktop\bin;C:\MinGW\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\jeanc\.puro\bin;C:\Users\jeanc\.puro\shared\pub_cache\bin;C:\Users\jeanc\.puro\envs\default\flutter\bin;C:\apache-maven-3.9.5\bin;;C:\Users\jeanc\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\\bin
+JRE paths:	C:\Users\jeanc\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\src\flutter\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\MinGW\bin;C:\Users\jeanc\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\bin;C:\Users\jeanc\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\jeanc\AppData\Local\Programs\Python\Python311\;C:\Users\jeanc\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jeanc\AppData\Roaming\npm;C:\Users\jeanc\AppData\Local\GitHubDesktop\bin;C:\MinGW\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.1\bin;;C:\Users\jeanc\.puro\bin;C:\Users\jeanc\.puro\shared\pub_cache\bin;C:\Users\jeanc\.puro\envs\default\flutter\bin;C:\apache-maven-3.9.5\bin;;C:\Users\jeanc\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\\bin
+Check launcher:	C:\Users\jeanc\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\bin\javaw.exe (OK)
+Check javac:	C:\Users\jeanc\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\bin\javac.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.017.000_008 / 64-Bit (OK)
+Launcher:	C:\Users\jeanc\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.8.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\jeanc\Desktop\snakegame\target\snakegame.exe"
+Args length:	60/32768 chars
+Exit code:	0

@@ -77,7 +77,7 @@ public class GameScreen extends JPanel implements ActionListener {
                 // Libera o acesso à área crítica
                 semaphore.release();
                 // Aguarda um curto intervalo de tempo
-                Thread.sleep(20); 
+                Thread.sleep(5); 
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
