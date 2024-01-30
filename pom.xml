@@ -15,7 +15,19 @@
 
     <build>
         <plugins>
-            <plugin>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-jar-plugin</artifactId>
+            <version>3.0.2</version>
+            <configuration>
+            <archive>
+                <manifest>
+                <mainClass>br.com.snakegame.Main</mainClass>
+                </manifest>
+            </archive>
+            </configuration>
+        </plugin>  
+        <plugin>
             <groupId>org.codehaus.mojo</groupId>
             <artifactId>exec-maven-plugin</artifactId>
             <version>3.0.0</version>
