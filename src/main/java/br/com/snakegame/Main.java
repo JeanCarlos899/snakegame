@@ -1,7 +1,19 @@
 package br.com.snakegame;
 
-public class Main {
+import javax.swing.*;
+
+public class Main extends JFrame {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        SwingUtilities.invokeLater(() -> new Main());
+    }
+
+    private Main() {
+        add(new GameScreen(new KeyReaderAdapter()));
+        setTitle("Jogo da Cobrinha");
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setResizable(false);
+        pack();
+        setVisible(true);
+        setLocationRelativeTo(null);
     }
 }
