@@ -22,9 +22,9 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 
 3. **Clonando o repositório**: Clone este repositório em sua máquina local usando o seguinte comando:
 
-  ```bash
-  git clone https://github.com/JeanCarlos899/snakegame.git
-  ```
+```bash
+git clone https://github.com/JeanCarlos899/snakegame.git
+```
 
 ### Instalando as dependências
 
